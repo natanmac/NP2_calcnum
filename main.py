@@ -2,7 +2,6 @@ from tkinter import filedialog, messagebox
 import csv
 import numpy as np
 
-#
 list_linear = []
 igualdade = []
 filename = filedialog.askopenfile()
